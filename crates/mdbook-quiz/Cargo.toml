@@ -3,10 +3,10 @@ name = "mdbook-quiz"
 authors = ["Will Crichton <crichton.will@gmail.com>"]
 description = "Interactive quizzes for your mdBook"
 license = "MIT OR Apache-2.0"
-version = "0.5.0"
+version = "0.5.0-CompEng0001"
 edition = "2024"
 include = ["/src", "/js"]
-repository = "https://github.com/cognitive-engineering-lab/mdbook-quiz"
+repository = "https://github.com/compeng0001/mdbook-quiz"
 readme = "../../README.md"
 
 [features]
